@@ -25,7 +25,7 @@ My goal is to build practical AI-powered solutions that automate business proces
 
 ### Certificate
 
-[📄 View My Ostad AI Automation Certificate](./Ostad-AI-Automation-Certificate.pdf)
+[📄 View My Ostad AI Automation Certificate](Certificate of Completion.pdf)
 
 ---
 
